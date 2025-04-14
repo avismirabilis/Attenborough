@@ -1,6 +1,22 @@
 # Attenborough
 A custom color palette inspired by nature documentaries narrated by Sir David Attenborough
 
+
+**Installation**
+
+```
+# Install the package
+install.packages("devtools")
+devtools::install_github("avismirabilis/Attenborough")
+```
+
+```
+## Usage
+library(Attenborough)
+
+```
+
+
 Color palettes inspired by documentaries narrated by Sir David Attenborough. 
 
 **Polar:**  
