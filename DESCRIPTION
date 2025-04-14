@@ -1,0 +1,11 @@
+Package: Attenborough
+Title: A Color Palette Package 
+Version: 0.1.0
+Authors@R: 
+    person("Giri", "Athrey", , "giri.athrey@tamu.edu", role = c("aut", "cre"))
+Description: Provides unique color palettes for R, carefully curated and selected from iconic natural history documentaries.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.2
+
