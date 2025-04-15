@@ -1,5 +1,5 @@
 # Attenborough
-A custom color palette inspired by nature documentaries narrated by Sir David Attenborough
+A custom color palette inspired by iconic nature documentaries narrated by Sir David Attenborough
 ![Cover](https://github.com/user-attachments/assets/350f91fc-1894-432d-82df-d4ad838f694b)
 
 
